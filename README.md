@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning about the different programming languages and methods.
+- 
+
 <!--
 **ankithmanchale/ankithmanchale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
